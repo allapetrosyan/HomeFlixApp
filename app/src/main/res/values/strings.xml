@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeFlixApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="englishBtnText">EN</string>
+    <string name="spainBtnText">ES</string>
+    <string name="start">GET STARTED</string>
+    <string name="search">Search</string>
+    <string name="top10">Top 10 TV Shows on Netflix</string>
+    <string name="what_s_new">What’s New</string>
+
+</resources>
